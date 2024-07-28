@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">A passionate software engineering student from Mexico 😃</h3>
 
-- 🌱 I’m currently learning **Web development, and AI**
+- 🌱 I’m currently learning **Web development, and laravel framework**
 - 📖 Learning and applying IEEE standards to my projects**
 
 <h3 align="left">Languages and Tools:</h3>
