@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/master/icons/php/php-original.svg" alt="js" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="js" width="40" height="40"/> 
   </a>
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="js" width="40" height="40"/> 
